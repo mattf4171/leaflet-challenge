@@ -8,3 +8,20 @@ body,
 html {
   height: 100%;
 }
+
+/* Text for depth var */
+.legend {
+  line-height: 18px;
+  color: black;
+  background-color: white;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+/* Legend information to hold the colors in the legend */
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+}
