@@ -11,7 +11,7 @@
 
 <br>
 Created a map using Leaflet that plots all the earthquake data from USGS data based on their longitude and latitude. Included popus that provide additional info about the earthquake when its associated marker is clicked. Created a legend that provides context for map data.
-<img src='Home.png'/>
+<img src='Images/Home.png'/>
 
 
 <br>
@@ -19,4 +19,4 @@ Ploted the tectonic plates dataset on the map in addition to the earthquakes.
 Added other base maps to choose from.
 Put each dataset into separate overlays that can be turned on and off independently.
 Added layer controls to map.
-<img src='5-Advanced.png'/>
+<img src='Images/5-Advanced.png'/>
