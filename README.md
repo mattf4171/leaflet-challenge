@@ -9,6 +9,7 @@
 + Leaflet
 + geoJSON
 
+### Visualizations
 <br>
 Created a map using Leaflet that plots all the earthquake data from USGS data based on their longitude and latitude. Included popus that provide additional info about the earthquake when its associated marker is clicked. Created a legend that provides context for map data.
 <img src='Images/Home.png'/>
@@ -20,3 +21,6 @@ Added other base maps to choose from.
 Put each dataset into separate overlays that can be turned on and off independently.
 Added layer controls to map.
 <img src='Images/5-Advanced.png'/>
+
+### References
+Dataset created by the <a href='http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php'>United States Geological Survey</a>
